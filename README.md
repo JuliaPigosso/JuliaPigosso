@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oie! Me chamo Julia Pigosso. Seja bem vindo ao meu GitHub! 🤓
 
-<!--
-**JuliaPigosso/JuliaPigosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-pigosso-28a8aa130)
 
-Here are some ideas to get you started:
+![JuliaPigosso GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaPigosso&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias utilizadas:
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="MONGODB" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+    <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div><br/>
+
+Estudante de engenharia de dados e em transição de carreira para área. Apaixonada por técnologia e por todas as transformações que os dados podem trazer para a vida das pessoas e empresas! 
